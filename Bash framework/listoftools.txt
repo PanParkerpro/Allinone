@@ -1,0 +1,19 @@
+1) Reverse shell [X]
+2) Keylogger [X]
+3) Password cracker [✅]
+4) XSS tester [✅]
+5) Vulnerability scanner [X]
+6) IP to location [✅]
+7) Trojan [✅]
+8) Port scanner [✅]
+
+
+
+Jan Trojan
+getXSSed - xss tester
+portglass - port scanner
+Reverse card - reverse shell
+Pass through - Password cracker
+Stalker - Location finder
+Scope - vulnerability scanner
+Keyspy - Keylogger
